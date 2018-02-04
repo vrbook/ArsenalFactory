@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "185029825863",
+    "firebase_url": "https://arsenalfactorys.firebaseio.com",
+    "project_id": "arsenalfactorys",
+    "storage_bucket": "arsenalfactorys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185029825863:android:d954398973ebd0c1",
+        "android_client_info": {
+          "package_name": "ua.email.vrbox.arsenalfactory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185029825863-c47pf7n3910390ffbjhp6rs8tsv7kpjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.email.vrbox.arsenalfactory",
+            "certificate_hash": "f84169ce7e73f2b688b353522aa0c8bcd2b6bbba"
+          }
+        },
+        {
+          "client_id": "185029825863-87tvnri8119hp67fs4k3lumk3qq5as25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3Svo4kKa9686r3EIY3XoRYwDO7M49KQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185029825863-87tvnri8119hp67fs4k3lumk3qq5as25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
